@@ -1,3 +1,3 @@
 echo Launched launch.sh
-ping sam-xps
+ping 100.108.8.7
 sleep infinity
