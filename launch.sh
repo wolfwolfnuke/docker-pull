@@ -1,2 +1,3 @@
-rc-service tailscale start
+sleep 10
+
 tailscale status
