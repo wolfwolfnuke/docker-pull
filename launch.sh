@@ -1,4 +1,5 @@
 git pull
+cd http-files
 echo Launching http-server
 http-server
 echo Launched http-server
