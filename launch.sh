@@ -4,5 +4,8 @@ ls
 echo Launching http-server
 http-server -p 80
 echo Launched http-server
+echo Launching ngrok
+ngrok http --url=remotely-alive-hippo.ngrok-free.app 80 
+echo Launched ngrok
 ping 100.108.8.7
 sleep infinity
